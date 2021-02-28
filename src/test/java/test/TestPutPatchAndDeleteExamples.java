@@ -7,7 +7,7 @@ import io.restassured.http.ContentType;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-public class PutPatchAndDeleteExamples {
+public class TestPutPatchAndDeleteExamples {
 
   @Test
   public void testPut() {

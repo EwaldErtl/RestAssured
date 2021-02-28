@@ -8,10 +8,8 @@ import io.restassured.http.ContentType;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-import java.util.HashMap;
-import java.util.Map;
 
-public class GetAndPostExamples { 
+public class TestGetAndPostExamples { 
   
   @Test
   public void testGet() { 
